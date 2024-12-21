@@ -1,0 +1,105 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* body{
+    background-image: url(back.jpg);
+    background-repeat: repeat;
+} */
+
+
+/* qeebta kowaad */
+.mainheader{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    /* color: white;
+     */
+}
+
+.logada{
+    
+    margin-left: 20px;
+    
+}
+
+.logada img{
+    width: 100px;
+    height: 100px;
+   
+   
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+    font-size: 10px;
+    font-size: x-large;
+    list-style: none;
+    font-weight: 500;
+  padding-top: 40px;
+  padding-right: 40px;
+ 
+}
+/* qeebta labaad */
+
+.dhaxda{
+    background-color: orangered;
+    color: white;
+   width: 1300px;
+   height: 400px;
+   display: flex;
+  align-items: center;
+  padding-left: 10px 20px;
+  padding: auto;
+}
+
+.left{
+    padding-left: 100px;
+    /* text-align: center; */
+
+}
+.left h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: normal;
+}
+.left a{
+    color: white;
+}
+
+.right{
+    padding-left: 220px;
+}
+
+.right iframe{
+ 
+    border: none;
+    height: 200px;
+    width: 300px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+/* qeebta u danbeesa */
+
+.last{
+    display: flex;
+    margin: 50px;
+    justify-content: center;
+    padding-left: 20px;
+    /* color: white; */
+}
+
+.box img{
+    width: 300px;
+    height: 200px;
+}
+.box h1{
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.left h2 span{
+    color: black;
+    font-size: 40px;
+}
